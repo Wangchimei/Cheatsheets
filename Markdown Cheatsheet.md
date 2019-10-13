@@ -88,12 +88,12 @@ Nested list:
 + Use pluses
 
 **Nested list:**
-1. First item
-  * Sub-list
+1. First item  
+  * Sub-list  
     1. More items
 2. Second item  
-  indented Sub-text
-  * Sub-list
+  indented Sub-text  
+  * Sub-list  
     * More items
 
 ## Links リンク
@@ -129,14 +129,14 @@ Reference image link:
 ![Alt Text](DEFINED LINK)
 [DEFINED LINK]: Link itself
 
-![Orange cat][Orange]
-[Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png
+![Lion][Lion-icon]
+[Lion-icon]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png
 ```
-Inline image link:
+Inline image link:  
 ![Lion](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png)
 
-Reference image link:
-![Lion][Lion-icon]
+Reference image link:  
+![Lion][Lion-icon]  
 [Lion-icon]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png
 
 ## Blockquotes 引用
