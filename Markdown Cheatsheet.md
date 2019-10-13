@@ -75,6 +75,7 @@ Nested list:
 ····1. More items
 2. Second item··
 ··indented Sub-text
+<line break>
 ··* Sub-list
 ····* More items
 ```
@@ -92,7 +93,8 @@ Nested list:
   * Sub-list  
     1. More items
 2. Second item  
-  indented Sub-text  
+  indented Sub-text
+
   * Sub-list  
     * More items
 
