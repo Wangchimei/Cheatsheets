@@ -93,8 +93,8 @@ indented Sub-text
     1. More items
 2. Second item  
 indented sub-text  
-  * Sub-list
-    * More items
+    * Sub-list
+        * More items
 
 ## Links リンク
 ```
