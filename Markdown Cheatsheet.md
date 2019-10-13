@@ -16,6 +16,16 @@ Markdown interactive website at [Markdown Tutorial](https://www.markdowntutorial
 ##### H5
 ###### H6
 
+## Horizontal Rule 水平線
+```
+***
+___
+---
+```
+***
+___
+---
+
 ## Emphasis 強調
 ```
 Emphasis(italics): *asterisks* or _underscores_
@@ -93,21 +103,21 @@ Inline link:
 [Visit GitHub!](www.github.com)
 
 Reference link:
-Here's [the first link][FIRST LINK].  
-Here's [an other link][ANOTHER LINK].  
-Now back to [the first link][FIRST LINK].  
-[FIRST LINK]: www.github.com
-[ANOTHER LINK]: www.google.com
+Here's [the first link][first-link].  
+Here's [another link][another-link].  
+Now back to [the first link][first-link].  
+[first-link]: www.github.com
+[another-link]: www.google.com
 ```
 **Inline link:**  
 [Visit GitHub!](www.github.com)
 
 **Reference link:**  
-Here's [the first link][FIRST LINK].  
-Here's [an other link][ANOTHER LINK].  
-Now back to [the first link][FIRST LINK].  
-[FIRST LINK]: www.github.com  
-[ANOTHER LINK]: www.google.com
+Here's [the first link][first-link].  
+Here's [another link][another-link].  
+Now back to [the first link][first-link].  
+[first-link]: www.github.com
+[another-link]: www.google.com
 
 ## Images 画像
 ```
@@ -122,11 +132,11 @@ Reference image link:
 ![Orange cat][Orange]
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png
 ```
-Inline image link:
+Inline image link:  
 ![Lion](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png)
 
 Reference image link:  
-![Orange cat][Orange]  
+![Orange cat][Orange]
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png
 
 ## Blockquotes 引用
@@ -157,14 +167,16 @@ Table | Something | Something
 Left-aligned | Centered | Right-alighed
 _Mix with_ | `other` | **styles**
 ```
-**Type 1:**  
+**Type 1:**
+
 | Tables        | Something     | Something     |
 | ------------- |:-------------:| -------------:|
 | Left-aligned  | Centered      | Right-alighed |
 | 1             | 2             | 3             |
 | 4             | 5             | 6             |
 
-**Type 2:**  
+**Type 2:**
+
 Table | Something | Something
 :--- | :---: | ---:
 Left-aligned | Centered | Right-alighed
@@ -177,7 +189,6 @@ Inline code:
 ```
 
 ```
-```
 No language
 ```
 
@@ -189,7 +200,6 @@ print s
 ```javascript
 var s = "JavaScript";
 alert(s);
-```
 ```
 
 ## Link to YouTube Videos
