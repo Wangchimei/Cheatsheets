@@ -74,8 +74,7 @@ Nested list:
 ··* Sub-list
 ····1. More items
 2. Second item··
-··indented Sub-text
-<line break>
+indented Sub-text
 ··* Sub-list
 ····* More items
 ```
@@ -89,13 +88,12 @@ Nested list:
 + Use pluses
 
 **Nested list:**
-1. First item  
-  * Sub-list  
+1. First item
+  * Sub-list
     1. More items
 2. Second item  
-  indented Sub-text
-
-  * Sub-list  
+indented Sub-text
+  * Sub-list
     * More items
 
 ## Links リンク
