@@ -92,7 +92,7 @@ indented Sub-text
   * Sub-list
     1. More items
 2. Second item  
-indented Sub-text
+indented sub-text  
   * Sub-list
     * More items
 
