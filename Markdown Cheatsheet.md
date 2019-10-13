@@ -106,7 +106,7 @@ Reference link:
 Here's [the first link][first-link].  
 Here's [another link][another-link].  
 Now back to [the first link][first-link].  
-[first-link]: www.github.com
+[first-link]: www.github.com  
 [another-link]: www.google.com
 ```
 **Inline link:**  
@@ -132,12 +132,12 @@ Reference image link:
 ![Orange cat][Orange]
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png
 ```
-Inline image link:  
+Inline image link:
 ![Lion](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png)
 
-Reference image link:  
-![Orange cat][Orange]
-[Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png
+Reference image link:
+![Lion][Lion-icon]
+[Lion-icon]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/96/22222-lion-face-icon.png
 
 ## Blockquotes 引用
 ```
