@@ -1,4 +1,4 @@
-#Markdown Cheatsheet
+#Markdown Cheat Sheet
 
 Markdown interactive website at [Markdown Tutorial](https://www.markdowntutorial.com)
 
