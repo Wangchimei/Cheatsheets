@@ -1,3 +1,5 @@
+#Markdown Cheatsheet
+
 Markdown interactive website at [Markdown Tutorial](https://www.markdowntutorial.com)
 
 ## Headers 見出し
@@ -74,9 +76,9 @@ Nested list:
 ··* Sub-list
 ····1. More items
 2. Second item··
-indented Sub-text
-··* Sub-list
-····* More items
+indented sub-text··
+····* Sub-list
+········* More items
 ```
 **Ordered list:**
 1. First item
