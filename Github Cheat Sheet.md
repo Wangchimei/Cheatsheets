@@ -127,8 +127,12 @@ _Caution:DO NOT rebase published commits!_
 
 
 ## Undo
-**Remove the file from staging and set it to be untracked**  
+**Remove a file that has already been added/initialized to your repository and set it to be untracked**  
+_this will stop tracking the file but not delete it from your system_
 `git rm --cached <file name>`
+
+**Untrack every file that is now in your .gitignore**  
+`git rm -r --cached .`
 
 **Remove specified file from the staging area**  
 `git reset <file name>`
