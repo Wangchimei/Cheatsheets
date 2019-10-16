@@ -128,17 +128,17 @@ _Caution:DO NOT rebase published commits!_
 
 
 ## Undo
-**Remove the file from staging and set it to be untracked**
+**Remove the file from staging and set it to be untracked**  
 `git rm --cached <file name>`
 
-**Remove specified file from the staging area**
+**Remove specified file from the staging area**  
 `git reset <file name>`
 
-**Discard all local changes in your working directory**
+**Discard all local changes in your working directory**  
 `git reset --hard HEAD`
 
-**Discard local changes in a specific file**
+**Discard local changes in a specific file**  
 `git checkout HEAD <file>`
 
-**Revert a commit (by producing a new commit with contrary changes)**
+**Revert a commit (by producing a new commit with contrary changes)**  
 `git revert <commit>`
