@@ -1,11 +1,10 @@
 # Github Cheat Sheet
-| Contents |
-| [Create](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#create)|
-| [Local Changes](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#local-changes)|
-| [Branches](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#branches)|
-| [History](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#history)|
-| [Publish](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#publish)|
-| [Merge / Rebase](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#merge--rebase)|
+| [Create](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#create)
+| [Local Changes](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#local-changes)
+| [Branches](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#branches)
+| [History](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#history)
+| [Publish](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#publish)
+| [Merge / Rebase](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#merge--rebase)
 | [Undo](https://github.com/Wangchimei/Cheatsheets/blob/master/Github%20Cheat%20Sheet.md#undo)|
 
 
